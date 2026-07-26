@@ -48,10 +48,10 @@ This project was completed collaboratively as part of a Business Analysis team.
 | As-Is Process Model | ⭐ Primary Contribution |
 | To-Be Process Model | ⭐ Primary Contribution |
 | Business Requirements Document (BRD) | Shared Contribution |
-|System Required Documentation | Team |
+| User Requirement Documetation | Team |
+| System Required Documentation | Team |
 | Use Personas & Journey Map  | Team |
 | Use Cases | Team |
-| User Requirement Documetation | Team |
 ---
 
 ## ⭐ Featured Contributions
