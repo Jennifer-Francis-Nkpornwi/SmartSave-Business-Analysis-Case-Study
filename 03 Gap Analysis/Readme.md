@@ -26,4 +26,4 @@ I conducted the Gap Analysis by identifying business problems, analyzing root ca
 
 📄 **Document:** SmartSave Gap Analysis.pdf
 
-[!Screenshot Preview](Gap%20screenshot.png)
+![Screenshot Preview](Gap%20screenshot.png)
