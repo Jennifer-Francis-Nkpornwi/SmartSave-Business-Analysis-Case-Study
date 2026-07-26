@@ -60,7 +60,7 @@ This project was completed collaboratively as part of a Business Analysis team.
 
 Identified key business gaps affecting users' ability to save consistently, including manual budgeting, fragmented financial data, limited spending visibility, and the lack of personalized financial guidance. Prioritized gaps based on business impact and proposed recommendations that informed the solution design.
 
-> ![Gap Analysis](Gap screenshot.png)
+> ![Gap Analysis](Gap%20screenshot.png)
 
 ---
 
