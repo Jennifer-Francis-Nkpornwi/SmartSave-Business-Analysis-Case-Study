@@ -60,7 +60,7 @@ This project was completed collaboratively as part of a Business Analysis team.
 
 Identified key business gaps affecting users' ability to save consistently, including manual budgeting, fragmented financial data, limited spending visibility, and the lack of personalized financial guidance. Prioritized gaps based on business impact and proposed recommendations that informed the solution design.
 
-> 📷 
+> ![Gap Analysis](Gap screenshot.png)
 
 ---
 
@@ -123,3 +123,15 @@ The proposed solution reduces manual effort, improves financial visibility, incr
 📂 User Requirements
 📂 Use Cases
 📂User Personas and Journey Maps
+
+---
+
+## Learnings
+
+Working on SmartSave strengthened my understanding of how Business Analysis extends beyond documenting requirements. It reinforced the importance of analyzing current business processes, identifying improvement opportunities, and designing future-state solutions that deliver measurable business value.
+
+This project also enhanced my experience collaborating within a Business Analysis team, where clear communication, shared ownership, and consistent documentation were essential to delivering a cohesive solution.
+
+## Acknowledgements
+
+This was a collaborative team project completed as part of a Business Analysis training bootcamp. The solution and supporting deliverables were developed through teamwork, with each team member contributing to different aspects of the analysis and documentation. The highlighted sections in this repository represent my primary contributions to the project.
