@@ -75,7 +75,7 @@ Documented the current financial management journey, highlighting operational in
 - Inconsistent budgeting
 - Low engagement with financial tools
 
-> ![AS-IS-process](13 Images/AS-IS-process.png)
+> ![AS-IS-process](13%20Images/AS-IS-process.png)
 
 ---
 ### To-Be Process Model
@@ -91,7 +91,7 @@ Designed the future-state business process demonstrating how SmartSave improves 
 
 The proposed solution reduces manual effort, improves financial visibility, increases user engagement, and supports long-term financial wellness.
 
->  ![TO BE Screenshot](13 Images/TO-BE-process.png)
+>  ![TO BE Screenshot](13%20Images/TO-BE-process.png)
 
 ---
 
