@@ -12,3 +12,4 @@ The presentation communicates the team's findings and recommendations to stakeho
 
 ---
 > ![SmartSave Presentation Cover](13%20Images/SmartSave%20presentation%20cover.png)
+![SmartSave Presentation Cover](13%20Images/smartsave-presentation-cover.png)
