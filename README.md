@@ -75,7 +75,7 @@ Documented the current financial management journey, highlighting operational in
 - Inconsistent budgeting
 - Low engagement with financial tools
 
-> ![AS IS Screenshot](Images/as%20is%20process.png)
+> ![AS-IS-process](Images/AS-IS-process.png)
 
 ---
 
