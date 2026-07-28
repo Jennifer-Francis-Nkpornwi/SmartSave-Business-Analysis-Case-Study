@@ -75,7 +75,7 @@ Documented the current financial management journey, highlighting operational in
 - Inconsistent budgeting
 - Low engagement with financial tools
 
-> 📷 **Insert As-Is Process Model screenshot here**
+> ![AS IS Screenshot](Images/as%20is%20process.png)
 
 ---
 
@@ -92,7 +92,7 @@ Designed the future-state business process demonstrating how SmartSave improves 
 
 The proposed solution reduces manual effort, improves financial visibility, increases user engagement, and supports long-term financial wellness.
 
-> 📷 **Insert To-Be Process Model screenshot here**
+>  ![TO BE Screenshot](Images/to%20be%20process.png)
 
 ---
 
